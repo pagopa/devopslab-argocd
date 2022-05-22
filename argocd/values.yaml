@@ -1,0 +1,4 @@
+argocdApp:
+  repoUrl: "https://github.com/pagopa/devopslab-argocd"
+  repoTargetRevision: "release-dev"
+
