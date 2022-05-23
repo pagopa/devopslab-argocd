@@ -22,7 +22,7 @@ spec:
         ### SERVICE
         - name: foo
           value: "bar"
-          forceString: "true"
+          forceString: true
 
 
   # Destination cluster and namespace to deploy the application
