@@ -4,7 +4,7 @@ microservice-chart:
     # tag: "1dd0109082e799bd5ee4474de2433a91d2b95fc5"
     pullPolicy: Always
 
-  namespace: "zelda"
+  namespace: "games"
   nameOverride: ""
   fullnameOverride: ""
 
